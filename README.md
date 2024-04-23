@@ -12,3 +12,4 @@
 - React
 - NodeJs
 - Python
+- SQL
